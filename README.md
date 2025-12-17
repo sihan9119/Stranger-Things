@@ -1,5 +1,7 @@
 用gemini+tripo3d做的
 
+如需转载请注明出处，禁止商用
+
 需要在终端里运行
 1️⃣cd进入文件夹
 2️⃣python -m http.server
